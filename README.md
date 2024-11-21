@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pramodverse58
+- 👋 Hi, I’m @pramodkandri
 - 👀 I’m interested in developing webpages using html and css
 - 🌱 I’m currently studying engineering and I want to do as many projects which will increase my knowledge
 - 💞️ I’m looking to collaborate on ...
